@@ -1,0 +1,42 @@
+[0.010s] Invoking command in '/home/workspace/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake /home/workspace/my_robot/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/workspace/my_robot/install/robot_description
+[0.076s] -- The C compiler identification is GNU 11.4.0
+[0.125s] -- The CXX compiler identification is GNU 11.4.0
+[0.130s] -- Detecting C compiler ABI info
+[0.186s] -- Detecting C compiler ABI info - done
+[0.190s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.190s] -- Detecting C compile features
+[0.190s] -- Detecting C compile features - done
+[0.192s] -- Detecting CXX compiler ABI info
+[0.250s] -- Detecting CXX compiler ABI info - done
+[0.254s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.254s] -- Detecting CXX compile features
+[0.255s] -- Detecting CXX compile features - done
+[0.257s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.375s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.456s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.519s] -- Added test 'lint_cmake' to check CMake code style
+[0.520s] -- Added test 'xmllint' to check XML markup files
+[0.521s] -- Configuring done
+[0.522s] -- Generating done
+[0.523s] -- Build files have been written to: /home/workspace/my_robot/build/robot_description
+[0.527s] Invoked command in '/home/workspace/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake /home/workspace/my_robot/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/workspace/my_robot/install/robot_description
+[0.528s] Invoking command in '/home/workspace/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/workspace/my_robot/build/robot_description -- -j12 -l12
+[0.561s] Invoked command in '/home/workspace/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/workspace/my_robot/build/robot_description -- -j12 -l12
+[0.567s] Invoking command in '/home/workspace/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/workspace/my_robot/build/robot_description
+[0.573s] -- Install configuration: ""
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/path.sh
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/path.dsv
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.bash
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.sh
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.zsh
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.dsv
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/package.dsv
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.574s] -- Installing: /home/workspace/my_robot/install/robot_description/share/robot_description/package.xml
+[0.576s] Invoked command in '/home/workspace/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/workspace/my_robot/build/robot_description

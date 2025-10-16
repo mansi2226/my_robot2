@@ -1,0 +1,39 @@
+[0.010s] Invoking command in '/home/workspace/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/workspace/my_robot/build/robot_description -- -j12 -l12
+[0.041s] Invoked command in '/home/workspace/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --build /home/workspace/my_robot/build/robot_description -- -j12 -l12
+[0.050s] Invoking command in '/home/workspace/my_robot/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/workspace/my_robot/build/robot_description
+[0.056s] -- Install configuration: ""
+[0.057s] -- Execute custom install script
+[0.057s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/gazebo_control.xacro
+[0.057s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/inertial_macros.xacro
+[0.057s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/lidar.xacro
+[0.057s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/my_robot.urdf.xacro
+[0.057s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/robot_core.xacro
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/urdf/ros2_control.xacro
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/config/gazebo_params.yaml
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/config/main.rviz
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/config/mapper_params_online_async.yaml
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/config/model.rviz
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/config/my_controller.yaml
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/world/my.world
+[0.058s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/world/obstacle.world
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/launch/controller.launch.py
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/launch/display.launch.py
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/launch/gazebo_bot.launch.py
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/launch/new.launch.py
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/launch/rsp.launch.py
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[0.059s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/path.sh
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/environment/path.dsv
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.bash
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.sh
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.zsh
+[0.060s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/local_setup.dsv
+[0.060s] -- Symlinking: /home/workspace/my_robot/install/robot_description/share/robot_description/package.dsv
+[0.068s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[0.068s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[0.068s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[0.068s] -- Up-to-date symlink: /home/workspace/my_robot/install/robot_description/share/robot_description/package.xml
+[0.070s] Invoked command in '/home/workspace/my_robot/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/workspace/alexa/install/alexa_py_example:/home/workspace/ros_ws/install/my_robot_control:/home/workspace/mici_ws/install/py_srvcli:/home/workspace/mici_ws/install/py_pubsub:/home/workspace/mici_ws/install/py_parameter:/home/workspace/mici_ws/install/py_launch_exam:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_mission:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_detect:/home/workspace/turtlebot3_ws/install/turtlebot3_autorace_camera:/opt/ros/humble /usr/bin/cmake --install /home/workspace/my_robot/build/robot_description
