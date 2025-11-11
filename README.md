@@ -14,11 +14,11 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## 📸 Robot Prototype
+##  Robot Prototype
 ![Autonomous Bot](https://github.com/mansi2226/my_robot2/blob/main/image1.jpeg?raw=true)
 
-
-![Autonomous Bot](https://github.com/yourusername/yourrepo/assets/123456789/robot_image.jpg)
+## navigation setup
+![Autonomous Bot](https://github.com/mansi2226/my_robot2/blob/main/image2.jpeg?raw=true)
 
 
 ![Autonomous Bot](https://github.com/yourusername/yourrepo/assets/123456789/robot_image.jpg)
