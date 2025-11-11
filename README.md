@@ -1,11 +1,11 @@
-# 🤖 Autonomous Mobile Robot (ROS2-Based)
+#  Autonomous Mobile Robot (ROS2-Based)
 
 A simple box-sized autonomous robot built using **ROS2** that can **map, navigate, and move autonomously** in a known environment.  
 This project was implemented both in **simulation (Gazebo + RViz2)** and **real-world hardware**, showcasing the integration of multiple sensors and control systems.
 
 ---
 
-## 🧭 Project Overview
+##  Project Overview
 
 The robot performs **SLAM (Simultaneous Localization and Mapping)** to explore and map an unknown area using a LiDAR sensor.  
 After the map is generated and saved, the robot uses that reference map to **navigate autonomously** to target locations set remotely from a PC.
@@ -14,7 +14,7 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## ⚙️ Specifications
+##  Specifications
 
 | Category | Details |
 |-----------|----------|
@@ -29,7 +29,7 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## 🧩 Hardware Components
+##  Hardware Components
 
 - **Chassis:** Custom-built box frame
 - **Motors:** 4 DC motors with encoders  
@@ -44,7 +44,7 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## 🖥️ Software Stack
+##  Software Stack
 
 - **ROS2** (e.g., Humble/Foxy)
 - **Gazebo** (robot simulation)
@@ -58,7 +58,7 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## 🧠 Features
+## Features
 
 - Autonomous Mapping using **SLAM**
 - Path Planning and Navigation with **Nav2**
@@ -72,12 +72,12 @@ Additionally, a camera is mounted on the robot to capture real-time visuals of t
 
 ---
 
-## 🚜 Applications
+##  Applications
 
-- 🌾 **Agriculture:** Crop detection, spraying fertilizer or medicine, autonomous monitoring  
-- 🏥 **Service Robots:** Hospital delivery, patient assistance  
-- 🏭 **Industrial Automation:** Material delivery and inspection  
-- 🛡️ **Surveillance & Security:** Real-time monitoring with camera and sensors  
+-  **Agriculture:** Crop detection, spraying fertilizer or medicine, autonomous monitoring  
+-  **Service Robots:** Hospital delivery, patient assistance  
+-  **Industrial Automation:** Material delivery and inspection  
+-  **Surveillance & Security:** Real-time monitoring with camera and sensors  
 
 ---
 
